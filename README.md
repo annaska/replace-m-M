@@ -1,6 +1,6 @@
 # [mM]-Task
 
-Übung mit Java, JUnit, Maven, Git und Travis.
+Ãœbung mit Java, JUnit, Maven, Git und Travis.
 
 TestFile: https://staff.fnwi.uva.nl/t.h.koornwinder/art/informal/KLSadd.tex
 
