@@ -7,8 +7,8 @@ import java.util.Random;
 
 
 /**
- * mMTask zur Übung mit Java, JUnit, Maven, Git und Travis.
- * m wird mit M ersetzt, der Rest des InputFiles soll nicht verändert werden.
+ * mMTask zur Ãœbung mit Java, JUnit, Maven, Git und Travis.
+ * m wird mit M ersetzt, der Rest des InputFiles soll nicht verÃ¤ndert werden.
  * 
  * TestFile: https://staff.fnwi.uva.nl/t.h.koornwinder/art/informal/KLSadd.tex
  * 
@@ -78,7 +78,7 @@ public class MmReplace {
 			file.close();
 			
 		} catch (IOException e) {
-			System.err.println("Exception beim Ändern des Files.");
+			System.err.println("Exception beim Ã„ndern des Files.");
 			e.printStackTrace();
 		}
 	}
